@@ -1,0 +1,1312 @@
+
+[
+  {
+    "id":1,
+    "name":"Aloysius Jones",
+    "floruitDate":625,
+    "location":"Rome",
+    "biography":"Lived well, loved hard, died young. test<br>"
+  },
+  {
+    "id":2,
+    "name":"Barnie Rubble",
+    "floruitDate":2,
+    "location":"stone age",
+    "biography":"Lived in a stone house<br>"
+  },
+  {
+    "id":3,
+    "name":"Testing New Writer",
+    "floruitDate":666,
+    "location":"test geography",
+    "biography":"test <b>biography</b> and <br><br>line breaks.<br>"
+  },
+  {
+    "id":4,
+    "name":"test writer 2",
+    "floruitDate":667,
+    "location":"test geography",
+    "biography":"test biography<br>"
+  },
+  {
+    "id":5,
+    "name":"test writer 3",
+    "floruitDate":555,
+    "location":"test goegraphy",
+    "biography":"test"
+  },
+  {
+    "id":6,
+    "name":"test writer 3 test",
+    "floruitDate":22,
+    "location":"test geography test",
+    "biography":"est"
+  },
+  {
+    "id":7,
+    "name":"test writer 4",
+    "floruitDate":555,
+    "location":"tesst",
+    "biography":"test"
+  },
+  {
+    "id":8,
+    "name":"Writer 5",
+    "floruitDate":555,
+    "location":"blah blah blah",
+    "biography":"testing biographical data for Writer 5<br>"
+  },
+  {
+    "id":9,
+    "name":"test",
+    "floruitDate":0,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":10,
+    "name":"Ammonius Sakkas",
+    "floruitDate":335,
+    "location":"",
+    "biography":"Active in Alexandria.<br>"
+  },
+  {
+    "id":11,
+    "name":"Cassius Longinus",
+    "floruitDate":243,
+    "location":"Athens",
+    "biography":"Taught in Athens. End of life: adviser to Palmyrians Septimius Odaenathus Zenobia. Killed by Aurelian."
+  },
+  {
+    "id":12,
+    "name":"Plotinus",
+    "floruitDate":235,
+    "location":"Alexandria, Rome, Lycopolis",
+    "biography":"205, Lycopolis(?)-270, Campania. 230's, studied in Alexandria. 243, travels to Persia with Gordian. 244, escapes to Antioch. 250's-60's, patronised in Rome. Later, leaves for Campania. <br>"
+  },
+  {
+    "id":13,
+    "name":"Amelius Gentilianus",
+    "floruitDate":275,
+    "location":"",
+    "biography":"Born in Etruria. From 246-269, he was a student of Plotinus in Rome, and he retired in Apamea."
+  },
+  {
+    "id":14,
+    "name":"Porphyry",
+    "floruitDate":270,
+    "location":"Rome, Tyre",
+    "biography":"234-305. Born in Tyre (Phoenicia), studied in Athens (Longinus). At 263, he joins Plotinus in Rome. 268, sojourns in Sicily."
+  },
+  {
+    "id":15,
+    "name":"Iamblichus",
+    "floruitDate":290,
+    "location":"Syria",
+    "biography":"Chalcis (Coele-Syria). Died in Apamea (?). Studied in Rome, or Sicily, with Porphyry. 290's, taught in Daphne (Antioch or Caesarea Philippi). Taught in Apamea. Levitates."
+  },
+  {
+    "id":16,
+    "name":"Ulpianus",
+    "floruitDate":330,
+    "location":"Antioch",
+    "biography":"Taught rhetoric in Emesa, Antioch, from 324-337."
+  },
+  {
+    "id":17,
+    "name":"Theodore",
+    "floruitDate":400,
+    "location":"Asine",
+    "biography":"From Greece. Established (Porphyrian) school (not in Pergamum)."
+  },
+  {
+    "id":18,
+    "name":"Dexippus",
+    "floruitDate":350,
+    "location":"",
+    "biography":"Taught in his own school.<br>"
+  },
+  {
+    "id":19,
+    "name":"Sopater (I)",
+    "floruitDate":326,
+    "location":"Apamea",
+    "biography":"Born in Apamea (?), 300, d. 337, Constantinople. Active in Constantinople. 326-- foremost Neoplatonist after Iamblichus. 330's, joins court of Constantine. Adviser of Constantine.<br>"
+  },
+  {
+    "id":20,
+    "name":"Eustathius",
+    "floruitDate":340,
+    "location":"Cappadocia",
+    "biography":"Left Sosipatra (wife) and Antoninus (son) in the 340's (to pursue politics?). 355-356, in Antioch. 358, on a mission to Persia."
+  },
+  {
+    "id":21,
+    "name":"Aedesius",
+    "floruitDate":330,
+    "location":"",
+    "biography":"d. 351-355 in Pergamum. Takes over school after Sopatros (Apamea?). 351, visited by Julian."
+  },
+  {
+    "id":22,
+    "name":"Prohaeresius",
+    "floruitDate":340,
+    "location":"",
+    "biography":"276, Cappadocia-367/68. Studied in Antioch and Athens. Succeeds Julianus in Athens. Invited by Constans to Gaul.<br>"
+  },
+  {
+    "id":23,
+    "name":"Maximus",
+    "floruitDate":361,
+    "location":"Ephesus",
+    "biography":"d. 371. 361-d., set up as teacher in Ephesus by Julian. 364, imprisoned by Valens. Defended by Themistius. <br>"
+  },
+  {
+    "id":24,
+    "name":"Sopater (II)",
+    "floruitDate":375,
+    "location":"Apamea",
+    "biography":"<br>"
+  },
+  {
+    "id":25,
+    "name":"Eusebius",
+    "floruitDate":350,
+    "location":"Myndus",
+    "biography":"Pergamum."
+  },
+  {
+    "id":26,
+    "name":"Sosipatra",
+    "floruitDate":340,
+    "location":"",
+    "biography":"b. 300-310, Ephesus; d. late 360's (?), post-husband. Late 330's, she arrives in Pergamum. 351, she meets Julian on his visit. Teachers unknown. Taught in Pergamum under care of Aedesius.<br>"
+  },
+  {
+    "id":27,
+    "name":"Priscus",
+    "floruitDate":350,
+    "location":"Epirus",
+    "biography":"c. 305-c. 395. Pergamum. Did not suffer persecution after Julian's death. Included in Julian's circle, and later moved to Athens."
+  },
+  {
+    "id":28,
+    "name":"Chrysanthius",
+    "floruitDate":350,
+    "location":"",
+    "biography":"Resisted the court of Julian. 361/3, was the high priest of Lydia by Julian. Sardis."
+  },
+  {
+    "id":29,
+    "name":"Himerius",
+    "floruitDate":340,
+    "location":"Athens, Prusa",
+    "biography":""
+  },
+  {
+    "id":30,
+    "name":"Iamblichus (II)",
+    "floruitDate":400,
+    "location":"",
+    "biography":"Son or nephew of Sopatros (II). Started school in Athens and was recognized by city for wisdom and largesse."
+  },
+  {
+    "id":31,
+    "name":"Chrysanthius",
+    "floruitDate":350,
+    "location":"",
+    "biography":"Resisted the court of Julian. 361/3, was the high priest of Lydia by Julian. Sardis."
+  },
+  {
+    "id":32,
+    "name":"Libanius",
+    "floruitDate":335,
+    "location":"Constantinople, Antioch, Nicomedia",
+    "biography":"314, Antioch-393, Antioch. Curial family-educated first in Antioch. From 336-340, studied in Athens. From 340/1-346, taught rhetoric in Constantinople and Nicomedia. 354, taught rhetoric in Antioch.<br>"
+  },
+  {
+    "id":33,
+    "name":"Themistius",
+    "floruitDate":345,
+    "location":"Constantinople",
+    "biography":"317, Paphlagonia-388, Constantinople. Educated in the East and Constantinople. In 345, he opens rhetoric school in Constantinople. Traveled often in the imperial entourage. Received patronage from every emperor from Constantius II-Theodosius I.<br>"
+  },
+  {
+    "id":34,
+    "name":"Antoninus",
+    "floruitDate":350,
+    "location":"",
+    "biography":"ca. 320-ca.390. Bathygeras, ca. Alexandria (canopic mouth of the Nile)-ascetic, esoteric school of Platonism; = theurgic.<br>"
+  },
+  {
+    "id":35,
+    "name":"Diodore",
+    "floruitDate":378,
+    "location":"Tarsus, Antioch",
+    "biography":"d. ca. 390. Native of Antioch.<br>"
+  },
+  {
+    "id":36,
+    "name":"Meletius the Confessor",
+    "floruitDate":360,
+    "location":"Ephesus, Constantinople, Nicomedia",
+    "biography":"d. 381. Head of the church of Antioch.<br>"
+  },
+  {
+    "id":37,
+    "name":"Plutarch the Younger",
+    "floruitDate":400,
+    "location":"Athens",
+    "biography":"340 or 370-432 (too old to lecture). Part of Athens school, possible student of Priscus or Iamblichus (II). Son of a certain Nestorius (not the well-known Nestorius).<br>"
+  },
+  {
+    "id":38,
+    "name":"Sallustius",
+    "floruitDate":363,
+    "location":"Constantinople",
+    "biography":"Consul in 363.<br>"
+  },
+  {
+    "id":39,
+    "name":"Eunapius",
+    "floruitDate":375,
+    "location":"Sardis",
+    "biography":"b. 345, Sardis. Studied in Sardis with Chrysanthius, studied in Athens with Prohaeresius.<br>"
+  },
+  {
+    "id":40,
+    "name":"Theon",
+    "floruitDate":364,
+    "location":"Alexandria",
+    "biography":"fl. 364, Alexandria"
+  },
+  {
+    "id":41,
+    "name":"Leontius",
+    "floruitDate":375,
+    "location":"Athens",
+    "biography":""
+  },
+  {
+    "id":42,
+    "name":"Synesius",
+    "floruitDate":400,
+    "location":"Cyrene",
+    "biography":"ca. 370-413. From 397-400, an ambassador to Constantinople. In 410, a bishop of Libya (Ptolemais). His wife and brothers were Christians.<br>"
+  },
+  {
+    "id":43,
+    "name":"Hypatia",
+    "floruitDate":415,
+    "location":"",
+    "biography":"d. 415, Alexandria. Married to an Isidorus, not the Isidorus of Athens.<br>"
+  },
+  {
+    "id":44,
+    "name":"Theodore",
+    "floruitDate":400,
+    "location":"Mopsuestia, Antioch",
+    "biography":"350, Antioch-428, Mopsuestia. Became a priest in 383.<br>"
+  },
+  {
+    "id":45,
+    "name":"John Chrysostom",
+    "floruitDate":380,
+    "location":"Constantinople, Antioch",
+    "biography":"b. 344-354, d. September 14, 407. 381, deacon. Priest in 386 by Bishop Flavian. Bishop of Constantinople in 398. Deposed by Synod of the Oak 403.<br>"
+  },
+  {
+    "id":46,
+    "name":"John",
+    "floruitDate":430,
+    "location":"Antioch",
+    "biography":"d. 441. Bishop of Antioch in 429. Got tangled up in Nestorian controversy, reconciled with Cyril in 433."
+  },
+  {
+    "id":47,
+    "name":"Nestorius",
+    "floruitDate":428,
+    "location":"Constantinople",
+    "biography":"b. after 381, Germanicia, d. after 450. Attended school of Antioch, bishop of Constantinople in 428, deposed at Ephesus in 431.<br>"
+  },
+  {
+    "id":48,
+    "name":"Syrianus",
+    "floruitDate":430,
+    "location":"Athens",
+    "biography":"431-432, succeeds Plutarch the Younger."
+  },
+  {
+    "id":49,
+    "name":"Hierocles",
+    "floruitDate":430,
+    "location":"",
+    "biography":"Taught in Alexandria ca. 435, arrested and exiled. <br>"
+  },
+  {
+    "id":50,
+    "name":"Theosebius",
+    "floruitDate":450,
+    "location":"",
+    "biography":"Neo-platonic philosopher.<br>"
+  },
+  {
+    "id":51,
+    "name":"Proclus",
+    "floruitDate":440,
+    "location":"Athens",
+    "biography":"412, Constantinople-485. First educated in Lycia. Educated in law in Alexandria, philosophy. From 430/1, moves to Athens. In 437, succeeds Syrianus. ??? \"taught Isidore\"-which? Of Pelusium or Isidorus?<br>"
+  },
+  {
+    "id":52,
+    "name":"Aedesia",
+    "floruitDate":450,
+    "location":"",
+    "biography":"d. 475."
+  },
+  {
+    "id":53,
+    "name":"Hermias",
+    "floruitDate":425,
+    "location":"Alexandria",
+    "biography":"Taught in Alexandria."
+  },
+  {
+    "id":54,
+    "name":"Aeneas",
+    "floruitDate":500,
+    "location":"Gaza",
+    "biography":"* look up Gesius (iatrosophist).<br><br>d. c. 518.<br>"
+  },
+  {
+    "id":55,
+    "name":"Ammonius Hermiae",
+    "floruitDate":500,
+    "location":"Alexandria",
+    "biography":"435/45-517/26. 470, taught in Alexandria. 475-483/5, Damascius hears him. 515, Olympiodorus hears him.<br>"
+  },
+  {
+    "id":56,
+    "name":"Isidorus",
+    "floruitDate":460,
+    "location":"",
+    "biography":"From Alexandria; studied in Athens.<br>"
+  },
+  {
+    "id":57,
+    "name":"Zenodotus",
+    "floruitDate":475,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":58,
+    "name":"Boethius",
+    "floruitDate":500,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":59,
+    "name":"Eutocius",
+    "floruitDate":500,
+    "location":"",
+    "biography":"Succeeded Ammonius Hermiae."
+  },
+  {
+    "id":60,
+    "name":"Asclepius",
+    "floruitDate":500,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":61,
+    "name":"Damascius",
+    "floruitDate":515,
+    "location":"Alexandria, Athens, Damascus",
+    "biography":"b. in Damascus early in 2nd half of 5th-c., d. post-538 in Syria. Studied in Alexandria under Ammonius and Isidore. In 492, he moved to Athens (Marinus, Zenodotus). Headed school in Athens. In 529, school of Athens closed. 532, signs a treaty (unknown location).<br>"
+  },
+  {
+    "id":62,
+    "name":"Leontius the Hermit",
+    "floruitDate":515,
+    "location":"",
+    "biography":"475-543/4, Byzantium."
+  },
+  {
+    "id":63,
+    "name":"Zacharias (Rhetor, Scholasticus)",
+    "floruitDate":525,
+    "location":"Alexandria, Mytilene (or Melitene), Constantinople",
+    "biography":"b. Gaza, d. before 553. Studied in Gaza, Alexandria; later bishop of Mytilene, sometimes reported as \"Melitene.\"<br><br>Wrote extant <i>Lives </i>of Peter the Iberian, Isaiah of Scetis, and Severus, as well as a history which, compressed, survives in the larger <i>Historia Ecclesiastica </i>of ps-Zachariah. Though he wrote in Greek, his works survive in Syriac.<br>"
+  },
+  {
+    "id":64,
+    "name":"Procopius",
+    "floruitDate":490,
+    "location":"Gaza",
+    "biography":"c. 465-528.<br>"
+  },
+  {
+    "id":65,
+    "name":"Choricius",
+    "floruitDate":500,
+    "location":"Gaza",
+    "biography":"Successor to Procopius.<br>"
+  },
+  {
+    "id":66,
+    "name":"John Philoponos",
+    "floruitDate":525,
+    "location":"Alexandria",
+    "biography":"circa 490-570's, Alexandria."
+  },
+  {
+    "id":67,
+    "name":"Olympiodorus",
+    "floruitDate":550,
+    "location":"Alexandria",
+    "biography":"b. 495-505. Taught in Alexandria up to and past 565. Scholarch by 541. Succeeded Eutocius."
+  },
+  {
+    "id":68,
+    "name":"Simplicius",
+    "floruitDate":530,
+    "location":"Athens",
+    "biography":"In 529, he travels to Persia with Damascius, maybe settled in Couriae (Baghdad), or in Athens."
+  },
+  {
+    "id":69,
+    "name":"David",
+    "floruitDate":550,
+    "location":"Alexandria, Thessalonica",
+    "biography":"\"of Armenia.\"<br>"
+  },
+  {
+    "id":70,
+    "name":"Stephanus",
+    "floruitDate":620,
+    "location":"Alexandria, Athens, Constantinople",
+    "biography":"<br>"
+  },
+  {
+    "id":71,
+    "name":"Pseudo-Elias",
+    "floruitDate":541,
+    "location":"Alexandria, Constantinople",
+    "biography":"Prefect of Illyrium (?), 541."
+  },
+  {
+    "id":72,
+    "name":"Nemesius",
+    "floruitDate":390,
+    "location":"Emesa",
+    "biography":""
+  },
+  {
+    "id":73,
+    "name":"Origen",
+    "floruitDate":200,
+    "location":"Alexandria, Caesarea",
+    "biography":"185-253. Born in Alexandria, died in Tyre. Head of school at Alexandria ca. 203. <br>"
+  },
+  {
+    "id":74,
+    "name":"Athenadoras",
+    "floruitDate":240,
+    "location":"",
+    "biography":"b. 215, Pontus<br>"
+  },
+  {
+    "id":75,
+    "name":"Gregory Thaumaturgus",
+    "floruitDate":240,
+    "location":"Neocaesarea",
+    "biography":"213, Pontus-270. Bishop of Neocaesaerea."
+  },
+  {
+    "id":76,
+    "name":"Antony",
+    "floruitDate":305,
+    "location":"",
+    "biography":"250, Coma-356, Mount Colzim. Moved to Pispir in 285, organizes community in 305, and eastern desert community 313."
+  },
+  {
+    "id":77,
+    "name":"Macrina the Elder",
+    "floruitDate":315,
+    "location":"",
+    "biography":"d. 340, Neocaesarea. Grandmother of Cappadocians."
+  },
+  {
+    "id":78,
+    "name":"Emmelia",
+    "floruitDate":330,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":79,
+    "name":"Basil the Elder",
+    "floruitDate":330,
+    "location":"",
+    "biography":"Teacher of rhetoric (?)."
+  },
+  {
+    "id":80,
+    "name":"Pior",
+    "floruitDate":330,
+    "location":"",
+    "biography":"d. 360. Solitary in Kellia for 30 years.<br>"
+  },
+  {
+    "id":81,
+    "name":"Cyril",
+    "floruitDate":350,
+    "location":"Jerusalem",
+    "biography":"315, Jerusalem-387. Bishop of Jerusalem from 349-.<br>"
+  },
+  {
+    "id":82,
+    "name":"Pope Damasus",
+    "floruitDate":340,
+    "location":"",
+    "biography":"304-384. Got in fight with Ursinus for papacy, fought heretics."
+  },
+  {
+    "id":83,
+    "name":"Martin",
+    "floruitDate":360,
+    "location":"Tours",
+    "biography":"315/336-397. Bishop of Tours, 371; patron saint of France. Founded monastery of LigugÃ©, 360."
+  },
+  {
+    "id":84,
+    "name":"Aelius Donatus",
+    "floruitDate":350,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":85,
+    "name":"Ausonius",
+    "floruitDate":340,
+    "location":"",
+    "biography":"310-395"
+  },
+  {
+    "id":86,
+    "name":"Epiphanius",
+    "floruitDate":345,
+    "location":"Palestine, Cyprus, Constantia (Salamis)",
+    "biography":"315, Eleutheropolis-May 12, 403, en route to Cyprus. Founded monastery near birthplace ca. 345. Teamed up with Theophilus to battle Origenists.<br>"
+  },
+  {
+    "id":87,
+    "name":"Didymus the Blind",
+    "floruitDate":340,
+    "location":"Alexandria",
+    "biography":"313-398. Last head of catechetical school of Alexandria.<br>"
+  },
+  {
+    "id":88,
+    "name":"Athanasius",
+    "floruitDate":330,
+    "location":"Alexandria",
+    "biography":"295-373, Alexandria."
+  },
+  {
+    "id":89,
+    "name":"Ammun",
+    "floruitDate":330,
+    "location":"Nitria, Raithu",
+    "biography":"294-357. At Kellia in Nitria in 332.<br><br>?Âµ??? = ?ÂµÂµ??.<br>"
+  },
+  {
+    "id":90,
+    "name":"Pambo",
+    "floruitDate":330,
+    "location":"",
+    "biography":"303-373"
+  },
+  {
+    "id":91,
+    "name":"Macarius the Great",
+    "floruitDate":330,
+    "location":"Egypt",
+    "biography":"300-390. Retired to the desert in 330.<br>"
+  },
+  {
+    "id":92,
+    "name":"Macarius",
+    "floruitDate":330,
+    "location":"",
+    "biography":"300-394. Monk. \"The Younger,\" or \"The Alexandrian,\" to distinguish from the Great, the Egyptian.<br>"
+  },
+  {
+    "id":93,
+    "name":"Ammonus",
+    "floruitDate":340,
+    "location":"",
+    "biography":"d. before 396. \n\n\n\n\t\n\t\n\t\n\t\n\t<style>\n\t\t<!-- \n\t\tBODY,DIV,TABLE,THEAD,TBODY,TFOOT,TR,TH,TD,P { font-family:\"Verdana\"; font-size:x-small }\n\t\t --></style>ca. 356, succeeds Antony in Pispir monastery."
+  },
+  {
+    "id":94,
+    "name":"Pit(h)yrion",
+    "floruitDate":360,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":95,
+    "name":"Hilarion",
+    "floruitDate":330,
+    "location":"",
+    "biography":"293, Gaza-373, Cyprus. Studied in Alexandria, where he converted to Christianity.<br>"
+  },
+  {
+    "id":96,
+    "name":"Gregory",
+    "floruitDate":370,
+    "location":"Nyssa",
+    "biography":"335, Neocaesarea-394. Ordained Bishop of Nyssa, 371. Attended Council of Constantinople, 381.<br>"
+  },
+  {
+    "id":97,
+    "name":"Gregory the Theologian",
+    "floruitDate":370,
+    "location":"Nazianzen, Constantinople",
+    "biography":"330, Arianzum, Cappadocia-389/390. School of rhetoric in Cappadocia, school in C. in Palestine, Alexandria, Athens. Bishop of Sasima, 371. Bishop of Nazianzus, 374. Bishop of Constantinople, 381, but not for long.<br>"
+  },
+  {
+    "id":98,
+    "name":"Basil the Great",
+    "floruitDate":370,
+    "location":"Caesarea",
+    "biography":"330, Caesarea, Cappadocia-379. Taught at Caesarea, Constantinople and Athens. Returned to Caesarea in 356, made bishop of C. in 370.<br>"
+  },
+  {
+    "id":99,
+    "name":"Macrina the Younger",
+    "floruitDate":360,
+    "location":"",
+    "biography":"327-379. Established ascetic community on the family estate at Pontus.<br>"
+  },
+  {
+    "id":100,
+    "name":"Augustine",
+    "floruitDate":390,
+    "location":"Hippo",
+    "biography":"13th Nov, 354, Tagaste, Numidia-28th Aug, 430, Hippo. Converted to Christianity in 387. Ca 396, bishop of Hippo.<br>"
+  },
+  {
+    "id":101,
+    "name":"Ambrose",
+    "floruitDate":374,
+    "location":"Milan",
+    "biography":"339, Trier-397. Son of praetorian prefect of Gaul. Studied in Greek rhetoric and poetry. Bishop of Milan, 374. Mediated a conflict between Maximus and Valentinian II.<br>"
+  },
+  {
+    "id":102,
+    "name":"Paulinus",
+    "floruitDate":390,
+    "location":"Nola",
+    "biography":"353, Bordeaux-June 22, 431, Nola. Baptized in 390.<br>"
+  },
+  {
+    "id":103,
+    "name":"Sulpicius Severus",
+    "floruitDate":390,
+    "location":"",
+    "biography":"360-430."
+  },
+  {
+    "id":104,
+    "name":"Jerome",
+    "floruitDate":360,
+    "location":"",
+    "biography":"331, Stridan-30 September, 420, Bethlehem. Learned Hebrew in Syrian desert, studied at Antioch, traveled everywhere.<br>"
+  },
+  {
+    "id":105,
+    "name":"Rufinus",
+    "floruitDate":360,
+    "location":"",
+    "biography":"?, Elusa, Gaul- d. November 27, 395, Constantinople."
+  },
+  {
+    "id":106,
+    "name":"Melania the Elder",
+    "floruitDate":370,
+    "location":"",
+    "biography":"342-410. Founded monastery with Rufinus at Mount of Olives."
+  },
+  {
+    "id":107,
+    "name":"Arsenius",
+    "floruitDate":390,
+    "location":"",
+    "biography":"mid. 4th century, Rome (ca. 354)-455, Troa. Went to join monks at Scetis ca. 390, possibly of Roman senatorial class."
+  },
+  {
+    "id":108,
+    "name":"Zoilos",
+    "floruitDate":400,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":109,
+    "name":"Daniel",
+    "floruitDate":400,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":110,
+    "name":"Alexander",
+    "floruitDate":400,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":111,
+    "name":"John Kolobos (the Dwarf)",
+    "floruitDate":380,
+    "location":"",
+    "biography":"d. 409. Withdrew from Scetis 407 to Klisma.<br>"
+  },
+  {
+    "id":112,
+    "name":"John Cassian",
+    "floruitDate":390,
+    "location":"",
+    "biography":"360-after 430."
+  },
+  {
+    "id":113,
+    "name":"Theophilus",
+    "floruitDate":385,
+    "location":"Alexandria",
+    "biography":"d. 412. Patriarch of Alexandria, 385-412. Condemned Origenism at Synod of Alexandria, 401.<br>"
+  },
+  {
+    "id":114,
+    "name":"Cyril",
+    "floruitDate":412,
+    "location":"Alexandria",
+    "biography":"d. 444. Born, raised, educated at Alexandria. Attended Synod of the Oak. Attended 3rd Ecumenical Council."
+  },
+  {
+    "id":115,
+    "name":"The Tall Brothers",
+    "floruitDate":380,
+    "location":"",
+    "biography":"Ammonios (d. 403); Dioscorus (d. 402); Eusebius; Euthymius."
+  },
+  {
+    "id":116,
+    "name":"Evagrius",
+    "floruitDate":380,
+    "location":"Pontus",
+    "biography":"345, Ibora, Pontus-399. Attended Council of Constantinople, 381. Went to Egypt, 382.<br>"
+  },
+  {
+    "id":117,
+    "name":"Paphnutius",
+    "floruitDate":380,
+    "location":"",
+    "biography":"\"of Scetis.\" Maybe the same as \"the Hermit.\"<br>"
+  },
+  {
+    "id":118,
+    "name":"Shenoute",
+    "floruitDate":383,
+    "location":"Atripe",
+    "biography":"348(?)-466. At White Monastery in Atripe from 383-466.<br>"
+  },
+  {
+    "id":119,
+    "name":"Isidore",
+    "floruitDate":390,
+    "location":"Pelusium",
+    "biography":"360, Alexandria-435."
+  },
+  {
+    "id":120,
+    "name":"Palladius",
+    "floruitDate":390,
+    "location":"Helenopolis",
+    "biography":"363/364, Galatia-431. Goes to Egypt, 388. Goes to Kellia, 390.<br>"
+  },
+  {
+    "id":121,
+    "name":"Besa",
+    "floruitDate":390,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":122,
+    "name":"Po(i)emen",
+    "floruitDate":380,
+    "location":"",
+    "biography":"340-450. Scetis.<br>"
+  },
+  {
+    "id":123,
+    "name":"Anub",
+    "floruitDate":400,
+    "location":"",
+    "biography":"d. 460. Scetis, Therenutis.<br>"
+  },
+  {
+    "id":124,
+    "name":"P(a)esius",
+    "floruitDate":390,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":125,
+    "name":"Bessarion",
+    "floruitDate":380,
+    "location":"",
+    "biography":"4th century, Scetis. Saint in Coptic church."
+  },
+  {
+    "id":126,
+    "name":"Dulas",
+    "floruitDate":400,
+    "location":"",
+    "biography":"Dulas"
+  },
+  {
+    "id":127,
+    "name":"Flavian",
+    "floruitDate":446,
+    "location":"",
+    "biography":"d. 449. Patriarch of Constantinople, 446.<br>"
+  },
+  {
+    "id":128,
+    "name":"Eutyches",
+    "floruitDate":440,
+    "location":"",
+    "biography":"378-454. Archimandrite of monastery at Constantinople. Deposed at Chalcedon in 451.<br>"
+  },
+  {
+    "id":129,
+    "name":"Melania the Younger",
+    "floruitDate":400,
+    "location":"",
+    "biography":"383, Rome-December 31, 439, Jerusalem."
+  },
+  {
+    "id":130,
+    "name":"Dioscorus",
+    "floruitDate":444,
+    "location":"Alexandria",
+    "biography":"d. 454. Archdeacon of Alexandria under Cyril. Succeeded to Patriarch in 444.<br>"
+  },
+  {
+    "id":131,
+    "name":"Pidjimi",
+    "floruitDate":400,
+    "location":"",
+    "biography":"380-450."
+  },
+  {
+    "id":132,
+    "name":"Theodosius II",
+    "floruitDate":430,
+    "location":"",
+    "biography":"401-28th July, 450."
+  },
+  {
+    "id":133,
+    "name":"Pulcheria",
+    "floruitDate":450,
+    "location":"",
+    "biography":"399-453. Empress in 450.<br>"
+  },
+  {
+    "id":134,
+    "name":"Chrysaphius",
+    "floruitDate":440,
+    "location":"",
+    "biography":"Eunuch in Constantinople who controlled Theodosius II from the 440's to death."
+  },
+  {
+    "id":135,
+    "name":"Theodoret",
+    "floruitDate":420,
+    "location":"Cyrus",
+    "biography":"393, Antioch-466. Born at Antioch, bishop of Cyrus from 423. Sided with John of Antioch at Ephesus.<br>"
+  },
+  {
+    "id":136,
+    "name":"Eustochius",
+    "floruitDate":230,
+    "location":"",
+    "biography":"d. ca. 269.<br>"
+  },
+  {
+    "id":137,
+    "name":"Ariston",
+    "floruitDate":290,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":138,
+    "name":"Peripatetic Anatolius",
+    "floruitDate":250,
+    "location":"Alexandria, Caesarea",
+    "biography":"Bishop of Laodicea."
+  },
+  {
+    "id":139,
+    "name":"Amphicleia",
+    "floruitDate":230,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":140,
+    "name":"Arete",
+    "floruitDate":290,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":141,
+    "name":"Julian Imp.",
+    "floruitDate":350,
+    "location":"",
+    "biography":"331, Constantinople-363, Persia. 337, in care of Arian bishop. 342-348, house arrest in Cappadocia. 351, converts to paganism/neoplatonism. 356-359, Gaul wars. 361-363, emperor. 362-363, Persia/Antioch operations.<br>"
+  },
+  {
+    "id":142,
+    "name":"Hellespontius",
+    "floruitDate":350,
+    "location":"Galatia",
+    "biography":""
+  },
+  {
+    "id":143,
+    "name":"Procopius",
+    "floruitDate":350,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":144,
+    "name":"Ammianus Marcellinus",
+    "floruitDate":360,
+    "location":"",
+    "biography":"ca. 325-ca. 391.<br>"
+  },
+  {
+    "id":145,
+    "name":"Arcadius",
+    "floruitDate":383,
+    "location":"",
+    "biography":"Emperor 383-408.<br>"
+  },
+  {
+    "id":146,
+    "name":"Dom(n)inus",
+    "floruitDate":400,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":147,
+    "name":"Odainathus",
+    "floruitDate":400,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":148,
+    "name":"Anthusa",
+    "floruitDate":350,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":149,
+    "name":"Eudoxia",
+    "floruitDate":400,
+    "location":"",
+    "biography":"d. 404.<br>"
+  },
+  {
+    "id":150,
+    "name":"Marinus",
+    "floruitDate":480,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":151,
+    "name":"Heliodorus Hermiae",
+    "floruitDate":500,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":152,
+    "name":"Asclepiodotus",
+    "floruitDate":500,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":153,
+    "name":"Athanasius (II)",
+    "floruitDate":500,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":154,
+    "name":"Theodora",
+    "floruitDate":475,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":155,
+    "name":"Priscian",
+    "floruitDate":500,
+    "location":"Lydia",
+    "biography":"Exiled with Simplicius, Damascius, Phoenician Hermias, Diogenes, Phrygian Eulonius and Isidore"
+  },
+  {
+    "id":156,
+    "name":"Hermias",
+    "floruitDate":500,
+    "location":"Phoenicia",
+    "biography":"Exiled with Simplicius, Damascius, Priscium of Lydia, Diogenes, Phrygian Eulonius, Isidore"
+  },
+  {
+    "id":157,
+    "name":"Diogenes",
+    "floruitDate":500,
+    "location":"",
+    "biography":"Exiled with Simplicius, Damascius, Priscium of Lydia, Phoenician Hermias, Phrygian Eulonius, Isidore"
+  },
+  {
+    "id":158,
+    "name":"Eulonius",
+    "floruitDate":500,
+    "location":"Phrygia",
+    "biography":"Exiled with Simplicius, Damascius, Priscium of Lydia, Phoenician Hermias, Phrygian Eulonius, Isidore"
+  },
+  {
+    "id":159,
+    "name":"Isidore",
+    "floruitDate":500,
+    "location":"",
+    "biography":"Exiled with Simplicius, Damascius, Priscium of Lydia, Phoenician Hermias, Phrygian Eulonius, Isidore"
+  },
+  {
+    "id":160,
+    "name":"Theodore",
+    "floruitDate":650,
+    "location":"Tarsus",
+    "biography":""
+  },
+  {
+    "id":161,
+    "name":"Acacius \"One-Eyed\"",
+    "floruitDate":340,
+    "location":"Caesarea",
+    "biography":"Succeeded Eusebius (Sozomen HE 3.5).<br>"
+  },
+  {
+    "id":162,
+    "name":"Arius",
+    "floruitDate":290,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":163,
+    "name":"Pachomius",
+    "floruitDate":320,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":164,
+    "name":"Amphilochius",
+    "floruitDate":370,
+    "location":"Iconium",
+    "biography":""
+  },
+  {
+    "id":165,
+    "name":"Eusebius",
+    "floruitDate":360,
+    "location":"Samosata",
+    "biography":"Martyr"
+  },
+  {
+    "id":166,
+    "name":"Simplicianus",
+    "floruitDate":350,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":167,
+    "name":"Valens",
+    "floruitDate":365,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":168,
+    "name":"Apollinaris",
+    "floruitDate":370,
+    "location":"Laodicea",
+    "biography":""
+  },
+  {
+    "id":169,
+    "name":"Theodosius I",
+    "floruitDate":379,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":170,
+    "name":"Joseph",
+    "floruitDate":380,
+    "location":"Penepho",
+    "biography":""
+  },
+  {
+    "id":171,
+    "name":"Moses",
+    "floruitDate":380,
+    "location":"Ethiopia",
+    "biography":"\"the Black.\"<br>"
+  },
+  {
+    "id":172,
+    "name":"John",
+    "floruitDate":380,
+    "location":"Lycopolis",
+    "biography":""
+  },
+  {
+    "id":173,
+    "name":"Eudocia",
+    "floruitDate":440,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":174,
+    "name":"Isaiah",
+    "floruitDate":450,
+    "location":"Scetis, Gaza",
+    "biography":""
+  },
+  {
+    "id":175,
+    "name":"Dorotheos",
+    "floruitDate":530,
+    "location":"Gaza",
+    "biography":"b. Antioch, studied rhetoric somewhere (trad. under Procopius, in Gaza), corresponded with Barsanuphius and John before entering the monastery they supervised, in Thawatha, under abba Seridos.<br>"
+  },
+  {
+    "id":176,
+    "name":"Barsanuphius and John",
+    "floruitDate":500,
+    "location":"Gaza",
+    "biography":"The \"Great Old Man\" and the \"Other Old Man\" of Gaza. Enmured.<br>"
+  },
+  {
+    "id":177,
+    "name":"Gessius \"Iatrosophist\"",
+    "floruitDate":500,
+    "location":"",
+    "biography":"See E. Watts's article (CC license): http://grbs.library.duke.edu/article/view/1101. <br><br>aka Gesius.<br><br>in Brill's New Pauly: http://referenceworks.brillonline.com/entries/brill-s-new-pauly/gesius-e423430?s.num=0&amp;s.f.s2_parent=s.f.book.brill-s-new-pauly&amp;s.q=gesius.<br>"
+  },
+  {
+    "id":178,
+    "name":"Severus",
+    "floruitDate":482,
+    "location":"Antioch",
+    "biography":"Rejected the Henotikon.<br>"
+  },
+  {
+    "id":179,
+    "name":"Cyril",
+    "floruitDate":554,
+    "location":"Scythopolis",
+    "biography":""
+  },
+  {
+    "id":180,
+    "name":"Silvanus",
+    "floruitDate":380,
+    "location":"",
+    "biography":""
+  },
+  {
+    "id":181,
+    "name":"Zeno",
+    "floruitDate":415,
+    "location":"",
+    "biography":"The disciple of Silvanus listed in the AP, who later (\"Abbot\") taught Peter the Iberian, does not match the description of St Zeno the Hermit, a supposed disciple of Basil the Great. There were many Zenos, including contemporary bishops of Maiuma and Gaza who may be identified with the disciple of Silvanus (?).<br>"
+  },
+  {
+    "id":182,
+    "name":"Zacharias",
+    "floruitDate":415,
+    "location":"",
+    "biography":"The Zacharias under Zeta in the AP seems different from the Zacharias repeatedly mentioned under Silvanus's entry in the AP. Neither should be identified with Zacharias Rhetor, although Z. Rhetor, like the disciple of Silvanus, was active in Palestine, and the two were roughly contemporary.-- DSW<br>"
+  },
+  {
+    "id":183,
+    "name":"Peter",
+    "floruitDate":435,
+    "location":"Iberia",
+    "biography":""
+  },
+  {
+    "id":184,
+    "name":"Odaenathus",
+    "floruitDate":425,
+    "location":"Syria",
+    "biography":""
+  },
+  {
+    "id":185,
+    "name":"Agapius",
+    "floruitDate":500,
+    "location":"Athens",
+    "biography":""
+  },
+  {
+    "id":186,
+    "name":"Nymphidianus",
+    "floruitDate":360,
+    "location":"Smyrna",
+    "biography":""
+  },
+  {
+    "id":187,
+    "name":"Eusebius",
+    "floruitDate":314,
+    "location":"Caesarea",
+    "biography":""
+  }
+]
